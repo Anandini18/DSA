@@ -1,4 +1,4 @@
-Q Link : [Family Structure](https://www.codingninjas.com/studio/problems/family-structure_981243?leftPanelTab=0)
+Q Link : https://www.codingninjas.com/studio/problems/family-structure_981243?leftPanelTab=0
 
 public class Solution {
 	public static String kthChildNthGeneration(int n, long k) {
