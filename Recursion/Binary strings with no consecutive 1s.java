@@ -1,3 +1,5 @@
+Q Link : https://www.codingninjas.com/studio/problems/binary-strings-with-no-consecutive-1s_893001?utm_source=youtube&utm_medium=affiliate&utm_campaign=parikh_youtube&leftPanelTab=0
+
 import java.util.ArrayList;
 import java.util.List;
 
